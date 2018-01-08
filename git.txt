@@ -1,0 +1,14 @@
+git status
+
+Add changes to commit
+
+You'll see your changes in red when you type "git status".
+
+git add CHANGES IN RED
+git commit -m "DESCRIBE THE INTENTION OF THE COMMIT"
+
+Send changes to gitlab.com
+
+git push REMOTE NAME-OF-BRANCH
+
+
